@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python
 def remove_char_at(str, n):
     new = ""
     i = 0
